@@ -1,0 +1,147 @@
+{
+    "main": {
+        "name" : "Dea Amelia Setyorini",
+        "description": "Hai! Welcome to my portfolio",
+        "image":"profilepic.jpg",
+        "github":"https://github.com/deaamelias",
+        "bio": "Active Informatics student at Ahmad Dahlan University with a GPA of 3.83. Strong skills in HTML, CSS, JavaScript, PHP, SQL,Python, React, and Java. Experienced in creating responsive websites and UI/UX designs. Improved communication and collaboration skills through student committee participation. Committed to continuous learning and contributing to innovative technological solutions.",
+        "contactmessage":"Hello, here I am",
+        "email": "deamelyaa07@gmail.com",
+        "phone": "62821-1184-2420",
+        "address":{
+            "street":"Jl Monumen Perjuangan",
+            "city":"Yogyakarta",
+            "state":"Central Java",
+            "zip": "55191"
+        },
+        "website": "https://bit.ly/PortfolioDeaAmeliaS",
+        "resumedownload":"https://bit.ly/PortfolioDeaAmeliaS",
+        "social":[
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/deamelyaa/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/deamelyaa",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/deaamelias",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Ahmad Dahlan",
+                "degree": "Bachelor degree of Informatics",
+                "graduated": "2021 - Present"
+            },
+            {
+                "school": "MAN Bulungan",
+                "degree": "Science",
+                "graduated": "2021",
+                "description": "1st Place, North Kalimantan Traffic Ambassador Selection by Regional Police, 2019. 1st Runner-Up, Integrated Mathematics, Madrasah Science Competition, Bulungan, 2019. Program Pengabdian Masyarakat (PPM) in Tanjung Selor, 2020"
+            }
+        ],
+        "work": [
+            {
+                "company" : "Project: Creating Movie App",
+                "title" : "Frontend Engineer",
+                "years": "May 2024",
+                "description": "Crafted and engineered interactive movie applications using a combination of HTML, CSS, and JavaScript."
+            }, {
+                "company": "React - MySkill",
+                "title": "Frontend Engineer",
+                "years": "May 2024",
+                "description": "Created a portfolio website"
+            }, {
+                "company": "PKM GFT",
+                "title": "Fullstack Developer",
+                "years": "February - April 2024",
+                "description": "Designed and developed a user-friendly website using Bootstrap, JavaScript, PHP and MySQL."
+            }, {
+                "company": "Fundraising Application - Project APPL",
+                "title": "UI Designer",
+                "years": "May - June 2023",
+                "description": "Collaborated on designing the user interface (UI) for a fundraising application from start to fnish using the Figma design platform."
+            }
+        ],
+        "skills": [
+            {
+                "name" : "JavaScript",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "85%"
+            },
+            {
+                "name": "MySQL",
+                "level": "88%"
+            },
+            {
+                "name": "Figma",
+                "level": "95%"
+            },
+            {
+                "name": "PHP",
+                "level": "85%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Movie App",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://github.com/deaamelias"
+            },
+            {
+                "title":"Portfolio",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"https://github.com/deaamelias"
+              },
+              {
+                "title":"Mom's Plate",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"https://github.com/deaamelias"
+              },
+              {
+                "title":"Kalimantan Explorer",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"https://github.com/deaamelias"
+              },
+              {
+                "title":"The Kost Father",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"https://github.com/deaamelias"
+              },
+              {
+                "title":"Fundraising Design",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://github.com/deaamelias"
+              }
+        ]
+    }
+}
